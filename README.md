@@ -1,11 +1,9 @@
 
-<div style="text-align: center;">
+<div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-    <p style="font-weight: bold;">Have a great time on my GitHub!</p>
+    <p><strong>Have a great time on my GitHub!</strong></p>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 </div>
-
-
 
 
 
