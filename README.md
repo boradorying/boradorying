@@ -62,11 +62,11 @@
  <h1 align="center"> 💭 My SNS List </h1>
 
 <div align="center">
-    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/tpwns1/)
+    <a href="https://www.instagram.com/tpwns1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram"></a>
     <br>
-    [![Tistory](https://img.shields.io/badge/Tistory-FF5722?style=flat&logo=Blogger&logoColor=white)](https://boradoritech-ai.tistory.com/)
+    <a href="https://boradoritech-ai.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5722?style=flat&logo=Blogger&logoColor=white" alt="Tistory"></a>
     <br>
-    [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@D0ngdong2)
+    <a href="https://www.youtube.com/@D0ngdong2"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white" alt="YouTube"></a>
 </div>
 
 
