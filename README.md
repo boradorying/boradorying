@@ -17,7 +17,7 @@
 
 
 <div align="center">
-  <h1>✔ GitHub Profile</h1>
+  <h1>✅ GitHub Profile</h1>
 
 <p>저는 안드로이드 앱 개발자를 꿈꾸고 있는 사람입니다. 미래에는 완벽한 개발자로 성장하여 모바일 앱 개발의 세계에 기여하고자 합니다. 현재는 이러한 목표를 달성하기 위해 열심히 공부하고 있습니다🔥.</p>
 
@@ -25,7 +25,7 @@
 
 
 
- <h1>  ✔Learning in Progress  </h1>
+ <h1>  ✅Learning in Progress  </h1>
 
 <p> I'm currently learning and exploring the following technologies: </p>
 
@@ -43,7 +43,7 @@
 
 <div align="center">
 
- <h1> ✔Most Used Languages</h1>
+ <h1>✅Most Used Languages</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boradorying&layout=compact)](https://github.com/boradorying/github-readme-stats)
 
@@ -51,7 +51,7 @@
 
 <div align="center">
 
- <h1> ✔GitHub Stats </h1>
+ <h1> ✅GitHub Stats </h1>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boradorying&show_icons=true&theme=gruvbox)](https://github.com/boradorying/github-readme-stats)
 
