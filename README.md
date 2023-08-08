@@ -53,7 +53,7 @@
 
  <h1> 🔉GitHub Stats </h1>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boradorying&show_icons=true&theme=cobalt)](https://github.com/boradorying/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boradorying&show_icons=true&theme=gruvbox)](https://github.com/boradorying/github-readme-stats)
 
 </div>
 
