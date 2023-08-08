@@ -22,7 +22,7 @@
 
 
 
-<h2>  🔍Learning in Progress </h2>
+ <h1>  🔍Learning in Progress  </h1>
 
 <p> I'm currently learning and exploring the following technologies: </p>
 
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-## 🎨Most Used Languages
+ <h1> 🎨Most Used Languages</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boradorying&layout=compact)](https://github.com/boradorying/github-readme-stats)
 
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-## 🔉GitHub Stats
+ <h1> 🔉GitHub Stats </h1>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boradorying&show_icons=true&theme=cobalt)](https://github.com/boradorying/github-readme-stats)
 
