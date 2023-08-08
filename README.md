@@ -62,7 +62,7 @@
 
 
 
- <h1 align="center"> 💭 My SNS List </h1>💭
+ <h1 align="center"> 💭 My SNS List 💭 </h1>
 
 <div align="center">
     <a href="https://www.instagram.com/tpwns1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram"></a>
