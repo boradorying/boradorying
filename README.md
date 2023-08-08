@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-    <p style="font-size: 18px;"><strong>Have a great time on my GitHub!</strong></p>
+    <p style="font-size: 36px;"><strong>Have a great time on my GitHub!</strong></p>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 </div>
 
