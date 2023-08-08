@@ -24,20 +24,22 @@
 
 
 
-
- <h1>  🟡Learning in Progress  </h1>
+<h1> 🟡Learning in Progress </h1>
 
 <p> I'm currently learning and exploring the following technologies: </p>
 
- <img src="https://img.shields.io/badge/Kotlin-61DAFB?style=flat&logo=Kotlin&logoColor=white"/>
-  <br>
- <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
-    <br>
- <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white"/>
-    <br>
- <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Kotlin-61DAFB?style=flat&logo=Kotlin&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
 
 </div>
+
 
 
 
