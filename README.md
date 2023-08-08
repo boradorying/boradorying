@@ -3,8 +3,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
     <p style="font-weight: bold;">Have a great time on my GitHub!</p>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-    
 </div>
+
 
 
 
